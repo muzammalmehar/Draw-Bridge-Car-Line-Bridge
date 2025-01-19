@@ -1,6 +1,6 @@
 # Draw Bridge: Car Line Bridge
 
-![Main Menu]([https://via.placeholder.com/600x200](https://github.com/muzammalmehar/Draw-Bridge-Car-Line-Bridge/blob/main/Assets/Images/Main%20Menu.jpg))
+![Main Menu](https://github.com/muzammalmehar/Draw-Bridge-Car-Line-Bridge/blob/main/Assets/Images/Main%20Menu.jpg?raw=true)
 
 ## Overview
 
