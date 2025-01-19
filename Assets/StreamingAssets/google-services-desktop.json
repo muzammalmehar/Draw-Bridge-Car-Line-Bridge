@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758739685474",
+    "project_id": "car-line-75572",
+    "storage_bucket": "car-line-75572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758739685474:android:9b2d90bbe3ef495bd9413b",
+        "android_client_info": {
+          "package_name": "com.brixxgamesstudio.carlinebridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeM9rtNvngAxS4x63EyBspw-ebrP4D3FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

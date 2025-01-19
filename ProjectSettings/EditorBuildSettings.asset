@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/WifiCheck.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 052780806030bfa45aaabf8bbcfa8353
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 35c20008af3d8474eaf7157a925681f2
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 2829fb4d89921a444bf1f73c38f10bd7
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: fd25bd568f524064a895df2571584f1a
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: fbd06d958ae6cd84fbdf1a33ab1ad8a7
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: f51d05078ba125d4791052a08d19c0b0
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: ee42ae93e04f865479df9b0a4673e395
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
+    guid: 5ab0556172d9cd04fb16ba65f31fc204
+  - enabled: 1
+    path: Assets/Scenes/Level 8.unity
+    guid: cafc955f338ebec428674cbec57a4d1e
+  - enabled: 1
+    path: Assets/Scenes/Level 9.unity
+    guid: 99a1eb5cfdfc9464fa1e46df5953e4c9
+  - enabled: 1
+    path: Assets/Scenes/Level 10.unity
+    guid: 9648c695e7f6c5740bba96e2d869e3bf
+  - enabled: 1
+    path: Assets/Scenes/LoadingLevel.unity
+    guid: f569396aecc0cb946a8c838864e486b1
+  m_configObjects: {}
